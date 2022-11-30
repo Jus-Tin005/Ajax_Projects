@@ -1,0 +1,17 @@
+[
+        {
+                "id": 1,
+                "name": "Khun Tun",
+                "email":"khunrun1997@gmail.com"
+        },
+        {
+                "id": 2,
+                "name": "Khun Aung",
+                "email":"khunaung99@gmail.com"
+        },
+        {
+                "id": 3,
+                "name": "Khun Thu Ra",
+                "email":"khunthura909@gmail.com"
+        }
+]
